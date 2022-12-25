@@ -1,0 +1,18 @@
+.WordWide>h2{
+    padding: 1rem 2rem;
+    font-size: 2rem;
+
+}
+.WordWide>h3{
+    margin-top: -20px;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: gray;
+}
+.WordWide>h5{
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: gray;
+}
